@@ -4,5 +4,5 @@ verify_ssl = true
 name = "testpypi"
 
 [packages]
-pipenv-test-private-package = {version = ">=0.9", index = "testpypi"}
+pipenv-test-private-package = {version = "==0.9", index = "testpypi"}
 requests = "==2.21.0"
