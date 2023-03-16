@@ -10,4 +10,4 @@ name = "testpypi"
 
 [packages]
 pipenv-test-private-package = {version = "==0.9", index = "testpypi"}
-requests = "==2.21.0"
+requests = "==2.28.2"
